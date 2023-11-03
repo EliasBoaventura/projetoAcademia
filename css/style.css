@@ -1,3 +1,17 @@
 body {
     background: black ;
-   }
+   } */
+/* header */
+.menus .logotipo{
+    float: left;
+}
+.menus .navbar{
+    float: right;
+    
+}
+.menus .navbar-toggler{
+    background: white;
+}
+.menus .nav-item a{
+    color: white;
+}
