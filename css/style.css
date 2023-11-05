@@ -2,13 +2,11 @@ body {
     background: black ;
    } */
 /* header */
-.menus .logotipo{
-    float: left;
-}
-.menus .navbar{
+
+/* .menus row {
     float: right;
     
-}
+} */
 .menus .navbar-toggler{
     background: white;
 }
